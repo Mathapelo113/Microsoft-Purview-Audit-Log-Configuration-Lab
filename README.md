@@ -67,7 +67,7 @@ From the Microsoft Defender XDR portal, I selected **More resources** and launch
 
 ### Screenshot
 
-![More Resources](screenshots/01-more-resources.png)
+![More Resources](Screenshots/01-more-resources.png)
 
 ---
 
