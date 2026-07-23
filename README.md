@@ -79,7 +79,7 @@ After accepting the privacy statement and data flow disclosure, the portal becam
 
 ### Screenshot
 
-![Microsoft Purview Portal](screenshots/02-microsoft-purview-portal-message.png)
+![Microsoft Purview Portal](Screenshots/02-microsoft-security-operations-analyst.png)
 
 ---
 
@@ -97,7 +97,7 @@ The Solutions page provides access to Microsoft Purview capabilities including:
 
 ### Screenshot
 
-![Solutions](screenshots/03-solutions.png)
+![Solutions](Screenshots/03-solutions.png)
 
 ---
 
@@ -117,7 +117,7 @@ Examples include:
 
 ### Screenshot
 
-![Audit](screenshots/04-audit.png)
+![Audit](Screenshots/04-audit.png)
 
 ---
 
@@ -137,7 +137,7 @@ These logs are commonly used during:
 
 ### Screenshot
 
-![Enable Audit Logging](screenshots/05-start-recording-user-and-admin-activity-bar.png)
+![Enable Audit Logging](Screenshots/05-start-recording-user-and-admin-activity-bar.png)
 
 ---
 
